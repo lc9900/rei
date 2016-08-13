@@ -1,0 +1,208 @@
+Item: DeNike Realty and Property Management
+Item: 1123 Florida Ave
+Item: St. Cloud, FL 34769
+Item: Period:
+Item: 10 Mar 2016-11 Apr 2016
+Item: Owner Statement
+Item: Han Xiao Gu
+Item: 68 Plympton Avenue
+Item: Roslyn Heights, NY 11577
+Item: Properties
+Item: 1012 8th Street
+Item: - 1012 8th
+Item: Street
+Item: St. Cloud, FL 34769
+Item: Date
+Item: Payee / Payer
+Item: Type
+Item: Reference
+Item: Description
+Item: Income
+Item: Expense
+Item: Balance
+Item: Beginning Cash Balance as of 03/10/
+Item: 2016895.00
+Item: 03/10/2016
+Item: DeNike Realty and Property
+Item: ManagementCheck1366Tax Authority - Business Tax Receipt 3
+Item: Properties
+Item: 145.48
+Item: 749.52
+Item: 03/10/2016
+Item: DeNike Realty and Property
+Item: ManagementCheck1367Management Fees - Management Fees
+Item: for 03/2016
+Item: 65.00
+Item: 684.52
+Item: 03/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for
+Item: 03/2016
+Item: 684.52
+Item: 0.00
+Item: 04/01/2016
+Item: Gabriel I. Roman Rodriguez
+Item: ReceiptRent Income - April 2016
+Item: 895.00
+Item: 895.00
+Item: 04/10/2016
+Item: DeNike Realty and Property
+Item: ManagementCheck1408Management Fees - Management Fees
+Item: for 04/2016
+Item: 65.00
+Item: 830.00
+Item: 04/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for
+Item: 04/2016
+Item: 830.00
+Item: 0.00
+Item: Ending Cash Balance
+Item: 0.00
+Item: Total
+Item: 895.00
+Item: 1,790.00
+Item: Property Cash Summary
+Item: Required Reserves
+Item: 0.00
+Item: Prepaid Rent for Future Rent
+Item: 0.00
+Item: Page 1 of 1
+Item: 
+Item: DeNike Realty and Property Management
+Item: 1123 Florida Ave
+Item: St. Cloud, FL 34769
+Item: Period:
+Item: 10 Mar 2016-11 Apr 2016
+Item: Owner Statement
+Item: Han Xiao Gu
+Item: 68 Plympton Avenue
+Item: Roslyn Heights, NY 11577
+Item: Properties
+Item: 608 Delaware Avenue
+Item: - 608
+Item: Delaware Avenue
+Item: St. Cloud, FL 34769
+Item: Date
+Item: Payee / Payer
+Item: Type
+Item: Reference
+Item: Description
+Item: Income
+Item: Expense
+Item: Balance
+Item: Beginning Cash Balance as of 03/10/
+Item: 2016895.00
+Item: 03/10/2016
+Item: DeNike Realty and Property
+Item: ManagementCheck1367Management Fees - Management Fees
+Item: for 03/2016
+Item: 50.00
+Item: 845.00
+Item: 03/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for
+Item: 03/2016
+Item: 845.00
+Item: 0.00
+Item: 04/01/2016
+Item: Arthur Dorrer
+Item: eCheckreceiptF9EE-62F8
+Item: Rent Income - April 2016
+Item: 895.00
+Item: 895.00
+Item: 04/10/2016
+Item: DeNike Realty and Property
+Item: ManagementCheck1408Management Fees - Management Fees
+Item: for 04/2016
+Item: 50.00
+Item: 845.00
+Item: 04/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for
+Item: 04/2016
+Item: 845.00
+Item: 0.00
+Item: Ending Cash Balance
+Item: 0.00
+Item: Total
+Item: 895.00
+Item: 1,790.00
+Item: Property Cash Summary
+Item: Required Reserves
+Item: 0.00
+Item: Prepaid Rent for Future Rent
+Item: 0.00
+Item: Page 1 of 1
+Item: 
+Item: DeNike Realty and Property Management
+Item: 1123 Florida Ave
+Item: St. Cloud, FL 34769
+Item: Period:
+Item: 10 Mar 2016-11 Apr 2016
+Item: Owner Statement
+Item: Han Xiao Gu
+Item: 68 Plympton Avenue
+Item: Roslyn Heights, NY 11577
+Item: Properties
+Item: 6810 Little Blue Lane
+Item: -6810 Little Blue Lane
+Item: Harmony, FL 34773
+Item: Date
+Item: Payee / Payer
+Item: Type
+Item: Reference
+Item: Description
+Item: Income
+Item: Expense
+Item: Balance
+Item: Beginning Cash Balance as of 03/10/2016
+Item: 1,495.00
+Item: 03/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for 03/
+Item: 20161,495.00
+Item: 0.00
+Item: 04/01/2016
+Item: Kevin D. O'Donnell
+Item: eCheckreceiptE5EC-523C
+Item: Rent Income - April 2016
+Item: 1,595.00
+Item: 1,595.00
+Item: 04/06/2016
+Item: Luv a Lawn
+Item: ACH
+Item: paymentLawn Maint - Fertilizer - April 2016
+Item: 20.00
+Item: 1,575.00
+Item: 04/06/2016
+Item: Triple Palm Lawn
+Item: Maintenance
+Item: ACH
+Item: paymentLawn Maint - Monthly Lawn Maintenance -
+Item: April 2016
+Item: 80.00
+Item: 1,495.00
+Item: 04/10/2016
+Item: Han Xiao Gu
+Item: ACH
+Item: paymentOwner Distribution - Owner payment for 04/
+Item: 20161,495.00
+Item: 0.00
+Item: Ending Cash Balance
+Item: 0.00
+Item: Total
+Item: 1,595.00
+Item: 3,090.00
+Item: Property Cash Summary
+Item: Required Reserves
+Item: 0.00
+Item: Prepaid Rent for Future Rent
+Item: 0.00
+Item: Page 1 of 1
+Item: 
